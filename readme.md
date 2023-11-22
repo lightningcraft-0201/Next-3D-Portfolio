@@ -1,5 +1,4 @@
-# Portfolio 2022
-[Live](https://https://superstar0718.web.app//)
+# Next 3D Portfolio
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
